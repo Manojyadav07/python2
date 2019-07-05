@@ -1,7 +1,7 @@
 x=input()
 if x in ('a','e','i','o','u'):
-    print("vowel")
+    print("it is vowel")
 elif x not in('a','e','i','o','u'):
-    print("consonant")
+    print("it is consonant")
 else:
     print("invalid")
